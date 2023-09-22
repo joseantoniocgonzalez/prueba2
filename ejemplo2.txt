@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 esto es una prueba para el viernes 
+=======
+
